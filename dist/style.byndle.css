@@ -1,0 +1,50 @@
+/*!**********************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/component/header/style.css ***!
+  \**********************************************************************************/
+.info {
+  background-color: rgba(80, 223, 152, 0.822);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 70px;
+  /* color: black; */
+  color: rgb(52, 56, 59);
+  font-size: 50px;
+  line-height: 1.4;
+}
+img {
+  padding-left: 20px;
+}
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+/*!*****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/style.css ***!
+  \*****************************************************************/
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+    
+  }
+
+
+  
+/*!***********************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/component/bio/style.scss ***!
+  \***********************************************************************************************************************/
+.myDiv {
+  color: #0a0c92;
+  height: 600px;
+  background-image: url(images/city[images]);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

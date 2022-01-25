@@ -1,0 +1,20 @@
+.info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(80, 223, 152, 0.822);
+  font-size: 50px;
+  color: rgb(52, 56, 59);
+  line-height: 1.4;
+  height: 70px;
+}
+
+img {
+padding-left: 18px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+  
